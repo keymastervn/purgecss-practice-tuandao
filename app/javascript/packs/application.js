@@ -13,4 +13,4 @@ Turbolinks.start()
 ActiveStorage.start()
 
 // Tailwind CSS
-import "stylesheets/application"
+import "../stylesheets/application"
